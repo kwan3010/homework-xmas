@@ -5,6 +5,7 @@ import "github.com/facebookincubator/ent"
 // Course holds the schema definition for the Course entity.
 type Course struct {
 	ent.Schema
+
 }
 
 // Fields of the Course.
