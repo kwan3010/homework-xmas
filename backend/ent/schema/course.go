@@ -8,7 +8,6 @@ type Course struct {
 }
 
 // Fields of the Course.
-//อ2
 func (Course) Fields() []ent.Field {
 	return nil
 }
